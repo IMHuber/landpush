@@ -25,9 +25,9 @@
 
     <distributionManagement>
         <repository>
-            <id>main-repo</id>
-            <name>central repo</name>
-            <url>http://repo1.maven.org/maven2</url>
+            <id>local-repo</id>
+            <name>local repo</name>
+            <url>/Users/ivan/.m2/repository</url>
         </repository>
     </distributionManagement>
 
