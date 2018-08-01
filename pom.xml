@@ -26,11 +26,11 @@
 
     </build>
 
-    <repositories>
+    <distributionManagement>
         <repository>
             <id>main-repo</id>
             <name>central repo</name>
             <url>http://repo1.maven.org/maven2</url>
         </repository>
-    </repositories>
+    </distributionManagement>
 </project>
