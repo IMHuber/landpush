@@ -131,6 +131,6 @@
 
 </script>
 
-<h2 style="padding-left: 29%"><============  ЖМИ, НЕ ТОРМОЗИ!</h2>
+<h2 style="padding-left: 29%; padding-top: 40px;"><============  ЖМИ, НЕ ТОРМОЗИ!</h2>
 </body>
 </html>
