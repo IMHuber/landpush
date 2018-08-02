@@ -94,8 +94,8 @@
 
     function saveSubscription(subJson) {
         var xhr = new XMLHttpRequest();
-        //var url = "https://env-9888409.jelastic.regruhosting.ru/api/subscribe";
-        var url = "http://pushsend-pushgroup.193b.starter-ca-central-1.openshiftapps.com/pushapp-1.0-SNAPSHOT/api/subscribe";
+        var url = "https://env-9888409.jelastic.regruhosting.ru/api/subscribe";
+        //var url = "http://pushsend-pushgroup.193b.starter-ca-central-1.openshiftapps.com/pushapp-1.0-SNAPSHOT/api/subscribe";
         xhr.open("POST", url, true);
 
         xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
